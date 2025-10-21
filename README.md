@@ -1,5 +1,5 @@
 # Netflix-Recommendation-Engine
-📌 ##Problem Statement
+📌 ## Problem Statement
 Recommendation engines play a crucial role in predicting user behavior and improving engagement by providing tailored suggestions. 
 OTT platforms like Netflix and Amazon Prime Video rely on these engines to analyze user activity and recommend content based on preferences.
 In this project, a movie recommendation engine is built from scratch to deliver personalized suggestions based on user interests and ratings.
