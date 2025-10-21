@@ -42,7 +42,10 @@ Implement a hybrid recommendation system combining content-based and collaborati
 Deploy the model via a web app or API for real-time recommendations.
 
 ## 🧾 References
-Kaggle Datasets
-YouTube Tutorials
-GitHub Repositories
+Kaggle Datasets,
+
+YouTube Tutorials,
+
+GitHub Repositories,
+
 Medium Articles and Blogs
