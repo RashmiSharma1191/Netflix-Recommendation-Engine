@@ -49,3 +49,9 @@ YouTube Tutorials,
 GitHub Repositories,
 
 Medium Articles and Blogs
+
+## 👩‍💻 Author
+**Rashmi Sharma**  
+📧 [Mail ID](rashusharma007@gmail.com)
+
+🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
