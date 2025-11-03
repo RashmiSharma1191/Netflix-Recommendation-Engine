@@ -52,6 +52,6 @@ Medium Articles and Blogs
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
-📧 [Mail ID](https://mail.google.com/rashusharma007@gmail.com)
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
