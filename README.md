@@ -31,10 +31,9 @@ The SVD model is trained on the training set.
 Root Mean Square Error (RMSE) is used to evaluate prediction accuracy.
 User tastes remain relatively stable over time.
 
-## 📈 Inferences
-The model provides insights into user preferences and popular genres.
-It demonstrates the effectiveness of collaborative filtering in delivering relevant recommendations.
-Patterns in user behavior help in understanding audience trends.
+## 📈 Model Results & Key Findings
+The SVD model successfully reduced the dimensionality of the user-item matrix to identify latent features. Final RMSE on Test Set: 0.5763. 
+This demonstrates the model's high prediction accuracy, meaning the average prediction error is less than one whole star rating point.
 
 ## 🚀 Future Scope
 Integrate user demographics, movie metadata, and contextual features (e.g., watch time, device used).
